@@ -487,3 +487,31 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+@media screen and (min-width: 1024px) {
+  body {
+    width: 100%;
+}
+.our-partners-kcZ .auto-group-eefj-UHf .auto-group-8ech-AQh {
+display: flex;
+justify-content: space-evenly;
+width: 100%;
+}
+.our-partners-kcZ .auto-group-eefj-UHf .auto-group-uec1-YTB {
+width: 100%;
+display: flex;
+justify-content: space-evenly;
+}
+.our-partners-kcZ .auto-group-eefj-UHf .auto-group-4hrj-RCu .auto-group-eztw-4Wm {
+margin-left: 33%;
+}
+.our-partners-kcZ .auto-group-eefj-UHf .auto-group-4hrj-RCu .frame-14597-dtd {
+margin-left: 35rem;
+}
+.our-partners-kcZ .auto-group-eefj-UHf .line-9-eBT{
+  width: 212.2rem;
+}
+.our-partners-kcZ .group-14603-3Cu .frame-14596-AoK{
+  display: flex;
+  justify-content: center;
+}
+}

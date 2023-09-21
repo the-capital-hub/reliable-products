@@ -1,6 +1,5 @@
-
 html {
-	font-size:52.4%;
+  font-size: 52.4%;
 }
 
 a:link {
@@ -26,25 +25,33 @@ a:active {
   background-color: transparent;
   text-decoration: underline;
 }
+
 * {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
-ul, li {
-	list-style: none;
+
+ul,
+li {
+  list-style: none;
 }
+
 input {
-	border: none;
+  border: none;
 }
+
 body {
   width: 151.2rem;
-}.landing-page-kcR {
+}
+
+.landing-page-kcR {
   width: 100%;
   height: 501rem;
   position: relative;
   overflow: hidden;
   background-color: #0b0b0b;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f {
   width: 213.1686rem;
   height: 175.4rem;
@@ -52,6 +59,7 @@ body {
   left: 8.5rem;
   top: 0;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .ellipse-60-hCD {
   width: 141.5378rem;
   height: 141.5378rem;
@@ -61,6 +69,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .ellipse-61-QsK {
   width: 172.7686rem;
   height: 172.7686rem;
@@ -70,6 +79,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .frame-14597-XBF {
   width: 13.9rem;
   height: 5rem;
@@ -88,6 +98,7 @@ body {
   background-color: #ff6b2c;
   border-radius: 4rem;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .frame-14600-XqT {
   width: 74.6rem;
   height: 2.7rem;
@@ -98,6 +109,7 @@ body {
   column-gap: 4rem;
   align-items: center;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .frame-14600-XqT .home-RR3 {
   font-size: 1.8rem;
   font-weight: 600;
@@ -107,6 +119,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .frame-14600-XqT .about-us-jRj {
   cursor: pointer;
   font-size: 1.8rem;
@@ -117,6 +130,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .frame-14600-XqT .contact-us-GRf {
   cursor: pointer;
   font-size: 1.8rem;
@@ -127,6 +141,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .frame-14600-XqT .our-partners-ogV {
   cursor: pointer;
   font-size: 1.8rem;
@@ -137,6 +152,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .frame-14600-XqT .our-products-MCD {
   cursor: pointer;
   font-size: 1.8rem;
@@ -147,6 +163,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .frame-14600-XqT .services-SjT {
   cursor: pointer;
   font-size: 1.8rem;
@@ -157,6 +174,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .line-9-Pub {
   width: 133.2rem;
   height: 0.1rem;
@@ -165,6 +183,7 @@ body {
   top: 10rem;
   background-color: rgba(87, 87, 87, 0.6499999762);
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw {
   width: 72.3rem;
   height: 21.6rem;
@@ -177,8 +196,9 @@ body {
   color: #ffffff;
   font-family: Poppins, 'Source Sans Pro';
 }
-.landing-page-kcR .auto-group-ilxb-a5f .join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw .join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw-sub-0 {
-}
+
+.landing-page-kcR .auto-group-ilxb-a5f .join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw .join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw-sub-0 {}
+
 .landing-page-kcR .auto-group-ilxb-a5f .join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw .join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw-sub-1 {
   font-size: 4.8rem;
   font-weight: 600;
@@ -186,8 +206,9 @@ body {
   color: #ff6b2c;
   font-family: Poppins, 'Source Sans Pro';
 }
-.landing-page-kcR .auto-group-ilxb-a5f .join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw .join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw-sub-2 {
-}
+
+.landing-page-kcR .auto-group-ilxb-a5f .join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw .join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw-sub-2 {}
+
 .landing-page-kcR .auto-group-ilxb-a5f .join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw .join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw-sub-3 {
   font-size: 4.8rem;
   font-weight: 600;
@@ -195,8 +216,9 @@ body {
   color: #ff6b2c;
   font-family: Poppins, 'Source Sans Pro';
 }
-.landing-page-kcR .auto-group-ilxb-a5f .join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw .join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw-sub-4 {
-}
+
+.landing-page-kcR .auto-group-ilxb-a5f .join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw .join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw-sub-4 {}
+
 .landing-page-kcR .auto-group-ilxb-a5f .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-5bP {
   width: 63.6rem;
   height: 4.5rem;
@@ -209,6 +231,7 @@ body {
   color: #efefef;
   font-family: Poppins, 'Source Sans Pro';
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .frame-14599-kSd {
   width: 16.3rem;
   height: 5rem;
@@ -227,6 +250,7 @@ body {
   background-color: #ff6b2c;
   border-radius: 4rem;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .ellipse-3-E6u {
   width: 9.4rem;
   height: 9.4rem;
@@ -237,6 +261,7 @@ body {
   background-color: rgba(255, 107, 44, 0.6000000238);
   border-radius: 4.7rem;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .group-1-HL5 {
   width: 34.4rem;
   height: 47.4rem;
@@ -244,6 +269,7 @@ body {
   left: 94.7rem;
   top: 15.5rem;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .group-1-HL5 .ellipse-1-pau {
   width: 9.4rem;
   height: 9.4rem;
@@ -254,6 +280,7 @@ body {
   background-color: #ff6b2c;
   border-radius: 4.7rem;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .group-1-HL5 .ellipse-2-w9j {
   width: 9.4rem;
   height: 9.4rem;
@@ -264,6 +291,7 @@ body {
   background-color: #ff6b2c;
   border-radius: 4.7rem;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .group-1-HL5 .rectangle-2-fbX {
   width: 29.6rem;
   height: 37.4rem;
@@ -274,6 +302,7 @@ body {
   box-sizing: border-box;
   border-radius: 25rem;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .group-1-HL5 .rectangle-1-Ws3 {
   width: 32.1rem;
   height: 47.4rem;
@@ -284,6 +313,7 @@ body {
   vertical-align: top;
   border-radius: 26rem;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .line-10-rR7 {
   width: 0.1rem;
   height: 10rem;
@@ -292,6 +322,7 @@ body {
   top: 0;
   background-color: #575757;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .line-11-BiH {
   width: 0.1rem;
   height: 10rem;
@@ -300,6 +331,7 @@ body {
   top: 0;
   background-color: #575757;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .line-12-iTK {
   width: 0.1rem;
   height: 10rem;
@@ -308,6 +340,7 @@ body {
   top: 0;
   background-color: #575757;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .line-13-sb7 {
   width: 0.1rem;
   height: 10rem;
@@ -316,6 +349,7 @@ body {
   top: 0;
   background-color: #575757;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .line-16-DQ5 {
   width: 0.1rem;
   height: 10rem;
@@ -324,6 +358,7 @@ body {
   top: 0;
   background-color: #575757;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .whatsappimage2023-09-05at1214-1-mRb {
   width: 7.3079rem;
   height: 6.8rem;
@@ -333,6 +368,7 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .frame-18-VMb {
   width: 78.1rem;
   height: 14.4rem;
@@ -340,6 +376,7 @@ body {
   left: 0.5rem;
   top: 72.8rem;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .frame-18-VMb .how-we-work-odB {
   margin-bottom: 0.4rem;
   font-size: 4.8rem;
@@ -349,6 +386,7 @@ body {
   font-family: Poppins, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .frame-18-VMb .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-KLd {
   margin-left: 1rem;
   max-width: 77.1rem;
@@ -358,6 +396,7 @@ body {
   color: #efefef;
   font-family: Poppins, 'Source Sans Pro';
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .group-19-wso {
   width: 50.3rem;
   height: 25.1rem;
@@ -365,6 +404,7 @@ body {
   left: 83.4rem;
   top: 67.1rem;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .group-19-wso .rectangle-3-5z1 {
   width: 49rem;
   height: 24.6rem;
@@ -377,12 +417,14 @@ body {
   background-image: url('../assets/rectangle-3-bg.png');
   border-radius: 17rem;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .group-19-wso .rectangle-3-5z1 .rectangle-3-5z1-bg {
   width: 49rem;
   height: 24.6rem;
   position: relative;
   background-image: url('REPLACE_IMAGE:78487ac393a62ccb0c9933e7bbb1e00dfda3c754');
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .group-19-wso .ellipse-3-hkV {
   width: 9.4rem;
   height: 9.4rem;
@@ -393,6 +435,7 @@ body {
   background-color: #ff6b2c;
   border-radius: 4.7rem;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .group-19-wso .group-17-Qeu {
   width: 9.1rem;
   height: 9.1rem;
@@ -402,6 +445,7 @@ body {
   object-fit: contain;
   vertical-align: top;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .frame-14597-8L1 {
   width: 26.9rem;
   height: 8.6rem;
@@ -412,6 +456,7 @@ body {
   background-color: rgba(255, 255, 255, 0.6999999881);
   border-radius: 17rem;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .frame-14597-8L1 .image-2-Gh7 {
   width: 7rem;
   height: 7.6rem;
@@ -421,6 +466,7 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
+
 .landing-page-kcR .auto-group-ilxb-a5f .frame-14597-8L1 .get-fast-delivery-QoK {
   width: 17.1rem;
   height: 3rem;
@@ -435,6 +481,7 @@ body {
   font-family: Poppins, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 {
   box-sizing: border-box;
   padding: 3.1rem 9rem 13.7rem 8.5rem;
@@ -448,6 +495,7 @@ body {
   grid-auto-rows: 76.8083rem;
   background-color: #171717;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-Uwb {
   max-width: 88rem;
   text-align: center;
@@ -457,6 +505,7 @@ body {
   color: #efefef;
   font-family: Poppins, 'Source Sans Pro';
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .why-you-choose-us-Liu {
   font-size: 4.8rem;
   font-weight: 600;
@@ -465,12 +514,14 @@ body {
   font-family: Poppins, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP {
   width: 132.05rem;
   row-gap: 4rem;
   display: flex;
   flex-direction: column;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ {
   margin-right: 2.85rem;
   width: calc(100% - 2.85rem);
@@ -479,6 +530,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ .group-20-jFF {
   margin-right: 5.8rem;
   width: 35.4rem;
@@ -486,6 +538,7 @@ body {
   position: relative;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ .group-20-jFF .ellipse-62-3Wq {
   width: 28.6rem;
   height: 28.6rem;
@@ -495,6 +548,7 @@ body {
   background-color: rgba(255, 107, 44, 0.3400000036);
   border-radius: 14.3rem;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ .group-20-jFF .ellipse-65-Bey {
   width: 31rem;
   height: 31rem;
@@ -505,6 +559,7 @@ body {
   box-sizing: border-box;
   border-radius: 15.5rem;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ .group-20-jFF .image-2-htD {
   width: 25rem;
   height: 27.2rem;
@@ -514,6 +569,7 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ .group-20-jFF .ellipse-63-eoT {
   width: 5.6rem;
   height: 5.6rem;
@@ -524,6 +580,7 @@ body {
   background-color: rgba(255, 107, 44, 0.5400000215);
   border-radius: 2.8rem;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ .group-20-jFF .ellipse-64-iYR {
   width: 5.6rem;
   height: 5.6rem;
@@ -534,12 +591,14 @@ body {
   background-color: rgba(255, 107, 44, 0.5400000215);
   border-radius: 2.8rem;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ .frame-14602-Rxd {
   margin: 3.9rem 0rem 5.7rem 0rem;
   width: 88rem;
   height: calc(100% - 9.6rem);
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ .frame-14602-Rxd .services-ZJ9 {
   margin-bottom: 2.7rem;
   width: 100%;
@@ -551,6 +610,7 @@ body {
   font-family: Poppins, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ .frame-14602-Rxd .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-TuK {
   margin-bottom: 2.8rem;
   max-width: 88rem;
@@ -560,6 +620,7 @@ body {
   color: #efefef;
   font-family: Poppins, 'Source Sans Pro';
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ .frame-14602-Rxd .frame-14601-6SV {
   width: 16.3rem;
   height: 5rem;
@@ -575,6 +636,7 @@ body {
   background-color: #ff6b2c;
   border-radius: 4rem;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-25-CEd {
   margin-left: 2.15rem;
   width: calc(100% - 2.15rem);
@@ -583,11 +645,13 @@ body {
   align-items: flex-end;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-25-CEd .frame-14603-LLq {
   margin: 0rem 6.5rem 1rem 0rem;
   width: 88rem;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-25-CEd .frame-14603-LLq .order-tracking-2UZ {
   margin-bottom: 2.7rem;
   width: 100%;
@@ -599,6 +663,7 @@ body {
   font-family: Poppins, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-25-CEd .frame-14603-LLq .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-9p5 {
   margin-bottom: 2.8rem;
   max-width: 88rem;
@@ -608,6 +673,7 @@ body {
   color: #efefef;
   font-family: Poppins, 'Source Sans Pro';
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-25-CEd .frame-14603-LLq .frame-14601-CnM {
   width: 16.3rem;
   height: 5rem;
@@ -623,12 +689,14 @@ body {
   background-color: #ff6b2c;
   border-radius: 4rem;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-25-CEd .group-21-ugm {
   width: 35.4rem;
   height: 100%;
   position: relative;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-25-CEd .group-21-ugm .ellipse-62-GGR {
   width: 28.6rem;
   height: 28.6rem;
@@ -638,6 +706,7 @@ body {
   background-color: rgba(161, 130, 117, 0.3400000036);
   border-radius: 14.3rem;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-25-CEd .group-21-ugm .ellipse-65-CA5 {
   width: 31rem;
   height: 31rem;
@@ -648,6 +717,7 @@ body {
   box-sizing: border-box;
   border-radius: 15.5rem;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-25-CEd .group-21-ugm .image-2-iu7 {
   width: 25rem;
   height: 27.2rem;
@@ -657,6 +727,7 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-25-CEd .group-21-ugm .ellipse-63-xoT {
   width: 5.6rem;
   height: 5.6rem;
@@ -667,6 +738,7 @@ body {
   background-color: #463c37;
   border-radius: 2.8rem;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-25-CEd .group-21-ugm .ellipse-64-5NH {
   width: 5.6rem;
   height: 5.6rem;
@@ -677,6 +749,7 @@ body {
   background-color: #463c37;
   border-radius: 2.8rem;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-27-o3P {
   margin-right: 2.85rem;
   width: calc(100% - 2.85rem);
@@ -685,6 +758,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-27-o3P .group-22-LZ7 {
   margin-right: 5.8rem;
   width: 35.4rem;
@@ -692,6 +766,7 @@ body {
   position: relative;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-27-o3P .group-22-LZ7 .ellipse-62-tad {
   width: 28.6rem;
   height: 28.6rem;
@@ -701,6 +776,7 @@ body {
   background-color: rgba(123, 227, 255, 0.1400000006);
   border-radius: 14.3rem;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-27-o3P .group-22-LZ7 .ellipse-65-bE9 {
   width: 31rem;
   height: 31rem;
@@ -711,6 +787,7 @@ body {
   box-sizing: border-box;
   border-radius: 15.5rem;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-27-o3P .group-22-LZ7 .image-2-hny {
   width: 25rem;
   height: 27.2rem;
@@ -720,6 +797,7 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-27-o3P .group-22-LZ7 .ellipse-63-3bw {
   width: 5.6rem;
   height: 5.6rem;
@@ -730,6 +808,7 @@ body {
   background-color: #253437;
   border-radius: 2.8rem;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-27-o3P .group-22-LZ7 .ellipse-64-NeD {
   width: 5.6rem;
   height: 5.6rem;
@@ -740,12 +819,14 @@ body {
   background-color: #253437;
   border-radius: 2.8rem;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-27-o3P .frame-14604-6aD {
   margin: 3.6rem 0rem 5.7rem 0rem;
   width: 88rem;
   height: calc(100% - 9.3rem);
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-27-o3P .frame-14604-6aD .safe-secure-D93 {
   margin-bottom: 2.7rem;
   width: 100%;
@@ -757,6 +838,7 @@ body {
   font-family: Poppins, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-27-o3P .frame-14604-6aD .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-LjT {
   margin-bottom: 2.8rem;
   max-width: 88rem;
@@ -766,6 +848,7 @@ body {
   color: #efefef;
   font-family: Poppins, 'Source Sans Pro';
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-27-o3P .frame-14604-6aD .frame-14601-m45 {
   width: 16.3rem;
   height: 5rem;
@@ -781,6 +864,7 @@ body {
   background-color: #ff6b2c;
   border-radius: 4rem;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-26-Fjw {
   margin-left: 2.15rem;
   width: calc(100% - 2.15rem);
@@ -789,11 +873,13 @@ body {
   align-items: flex-end;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-26-Fjw .frame-14605-B7o {
   margin: 0rem 6.5rem 1rem 0rem;
   width: 88rem;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-26-Fjw .frame-14605-B7o .fast-delivery-6Vf {
   margin-bottom: 2.7rem;
   width: 100%;
@@ -805,6 +891,7 @@ body {
   font-family: Poppins, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-26-Fjw .frame-14605-B7o .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-S3j {
   margin-bottom: 2.8rem;
   max-width: 88rem;
@@ -814,6 +901,7 @@ body {
   color: #efefef;
   font-family: Poppins, 'Source Sans Pro';
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-26-Fjw .frame-14605-B7o .frame-14601-sPw {
   width: 16.3rem;
   height: 5rem;
@@ -829,12 +917,14 @@ body {
   background-color: #ff6b2c;
   border-radius: 4rem;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-26-Fjw .group-23-b53 {
   width: 35.4rem;
   height: 100%;
   position: relative;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-26-Fjw .group-23-b53 .ellipse-62-v7K {
   width: 28.6rem;
   height: 28.6rem;
@@ -844,6 +934,7 @@ body {
   background-color: rgba(100, 100, 202, 0.3400000036);
   border-radius: 14.3rem;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-26-Fjw .group-23-b53 .ellipse-65-eZ7 {
   width: 31rem;
   height: 31rem;
@@ -854,6 +945,7 @@ body {
   box-sizing: border-box;
   border-radius: 15.5rem;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-26-Fjw .group-23-b53 .image-2-z7B {
   width: 25rem;
   height: 27.2rem;
@@ -863,6 +955,7 @@ body {
   object-fit: cover;
   vertical-align: top;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-26-Fjw .group-23-b53 .ellipse-63-8UH {
   width: 5.6rem;
   height: 5.6rem;
@@ -873,6 +966,7 @@ body {
   background-color: #313154;
   border-radius: 2.8rem;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-26-Fjw .group-23-b53 .ellipse-64-dfw {
   width: 5.6rem;
   height: 5.6rem;
@@ -883,11 +977,13 @@ body {
   background-color: #313154;
   border-radius: 2.8rem;
 }
+
 .landing-page-kcR .auto-group-om93-gF3 .line-14-MM3 {
   width: 133.2rem;
   height: 0.1rem;
   background-color: rgba(255, 255, 255, 0.6499999762);
 }
+
 .landing-page-kcR .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-tbs {
   width: 88rem;
   height: 4.5rem;
@@ -901,6 +997,7 @@ body {
   color: #efefef;
   font-family: Poppins, 'Source Sans Pro';
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM {
   box-sizing: border-box;
   padding: 3.4rem 9rem 11.3rem 8rem;
@@ -913,6 +1010,7 @@ body {
   display: flex;
   flex-direction: column;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .line-15-1K7 {
   margin: 0rem 0rem 5.6rem 1rem;
   width: 133.2rem;
@@ -920,12 +1018,14 @@ body {
   background-color: rgba(255, 255, 255, 0.6499999762);
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 {
   width: 100%;
   display: flex;
   align-items: flex-end;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD {
   margin-right: 5.9rem;
   box-sizing: border-box;
@@ -937,6 +1037,7 @@ body {
   border-bottom: solid 0.1rem rgba(255, 255, 255, 0.6000000238);
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-yi1f-CPb {
   margin: 0rem 3rem 3.3rem 2.8rem;
   width: calc(100% - 5.8rem);
@@ -945,6 +1046,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-yi1f-CPb .coconuts-jPX {
   margin: 0rem 38.6rem 0.1rem 0rem;
   font-size: 2.8rem;
@@ -955,6 +1057,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-yi1f-CPb .frame-10-4Ro {
   box-sizing: border-box;
   padding: 1.2rem 2.128rem 1.2rem 2.028rem;
@@ -964,12 +1067,14 @@ body {
   border-radius: 1rem;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-yi1f-CPb .frame-10-4Ro .frame-9-yof {
   width: 100%;
   height: 100%;
   display: flex;
   align-items: center;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-yi1f-CPb .frame-10-4Ro .frame-9-yof .more-jH3 {
   margin-right: 0.5rem;
   font-size: 1.5rem;
@@ -980,6 +1085,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-yi1f-CPb .frame-10-4Ro .frame-9-yof .vector-32q {
   margin-top: 0rem;
   width: 2.0441rem;
@@ -988,6 +1094,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .line-4-ANM {
   margin-bottom: 5.4rem;
   width: 100%;
@@ -995,6 +1102,7 @@ body {
   background-color: rgba(255, 255, 255, 0.6000000238);
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-kqv5-JzM {
   margin: 0rem 3rem 4.6rem 2.8rem;
   width: calc(100% - 5.8rem);
@@ -1003,6 +1111,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-kqv5-JzM .potato-F8u {
   margin: 0rem 43.1rem 0.1rem 0rem;
   font-size: 2.8rem;
@@ -1013,6 +1122,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-kqv5-JzM .frame-14598-9EH {
   box-sizing: border-box;
   padding: 1.2rem 2.128rem 1.2rem 2.028rem;
@@ -1022,12 +1132,14 @@ body {
   border-radius: 1rem;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-kqv5-JzM .frame-14598-9EH .frame-9-5dj {
   width: 100%;
   height: 100%;
   display: flex;
   align-items: center;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-kqv5-JzM .frame-14598-9EH .frame-9-5dj .more-egq {
   margin-right: 0.5rem;
   font-size: 1.5rem;
@@ -1038,6 +1150,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-kqv5-JzM .frame-14598-9EH .frame-9-5dj .vector-YnD {
   margin-top: 0rem;
   width: 2.0441rem;
@@ -1046,6 +1159,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .line-5-HE1 {
   margin-bottom: 5rem;
   width: 100%;
@@ -1053,6 +1167,7 @@ body {
   background-color: rgba(255, 255, 255, 0.6000000238);
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-2w9k-2hP {
   margin: 0rem 3rem 4.6rem 2.8rem;
   width: calc(100% - 5.8rem);
@@ -1061,6 +1176,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-2w9k-2hP .black-pepper-jbo {
   margin: 0.1rem 33.9rem 0rem 0rem;
   font-size: 2.8rem;
@@ -1071,6 +1187,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-2w9k-2hP .frame-14599-SWD {
   box-sizing: border-box;
   padding: 1.2rem 2.128rem 1.2rem 2.028rem;
@@ -1080,12 +1197,14 @@ body {
   border-radius: 1rem;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-2w9k-2hP .frame-14599-SWD .frame-9-N8y {
   width: 100%;
   height: 100%;
   display: flex;
   align-items: center;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-2w9k-2hP .frame-14599-SWD .frame-9-N8y .more-jVK {
   margin-right: 0.5rem;
   font-size: 1.5rem;
@@ -1096,6 +1215,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-2w9k-2hP .frame-14599-SWD .frame-9-N8y .vector-Uho {
   margin-top: 0rem;
   width: 2.0441rem;
@@ -1104,6 +1224,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .line-6-ok5 {
   margin-bottom: 5.5rem;
   width: 100%;
@@ -1111,6 +1232,7 @@ body {
   background-color: rgba(255, 255, 255, 0.6000000238);
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-is65-YSm {
   margin: 0rem 3rem 4.9rem 2.8rem;
   width: calc(100% - 5.8rem);
@@ -1119,6 +1241,7 @@ body {
   align-items: center;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-is65-YSm .more-products-5hb {
   margin: 0rem 31.9rem 0.1rem 0rem;
   font-size: 2.8rem;
@@ -1129,6 +1252,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-is65-YSm .frame-14600-1bF {
   box-sizing: border-box;
   padding: 1.2rem 2.128rem 1.2rem 2.028rem;
@@ -1138,12 +1262,14 @@ body {
   border-radius: 1rem;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-is65-YSm .frame-14600-1bF .frame-9-xFb {
   width: 100%;
   height: 100%;
   display: flex;
   align-items: center;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-is65-YSm .frame-14600-1bF .frame-9-xFb .more-Kbw {
   margin-right: 0.5rem;
   font-size: 1.5rem;
@@ -1154,6 +1280,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-is65-YSm .frame-14600-1bF .frame-9-xFb .vector-FVb {
   margin-top: 0rem;
   width: 2.0441rem;
@@ -1162,6 +1289,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .frame-28-XCD {
   margin-bottom: 0.0559rem;
   box-sizing: border-box;
@@ -1175,6 +1303,7 @@ body {
   border-radius: 0.5rem;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .frame-28-XCD .image-4-17P {
   margin: 0rem 0rem 0.663rem 0.766rem;
   width: 23.1569rem;
@@ -1183,6 +1312,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .frame-28-XCD .coconuts-jJH {
   margin: 0rem 0rem 2.971rem 0.574rem;
   text-align: center;
@@ -1194,6 +1324,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .frame-28-XCD .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-bE1 {
   margin-bottom: 3.1079rem;
   max-width: 47.2rem;
@@ -1205,6 +1336,7 @@ body {
   font-family: Poppins, 'Source Sans Pro';
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .frame-28-XCD .frame-14607-4tH {
   margin: 0rem 7.811rem 0rem 8.194rem;
   width: calc(100% - 16.0052rem);
@@ -1222,6 +1354,7 @@ body {
   border-radius: 4rem;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .our-products-KZK {
   width: 31.8rem;
   height: 7.2rem;
@@ -1235,6 +1368,7 @@ body {
   font-family: Poppins, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .landing-page-kcR .auto-group-7nqy-z9f {
   box-sizing: border-box;
   padding: 5.6rem 14rem 5.6rem 9rem;
@@ -1247,6 +1381,7 @@ body {
   align-items: center;
   background-color: #171717;
 }
+
 .landing-page-kcR .auto-group-7nqy-z9f .frame-14609-4QR {
   margin-right: 27.9rem;
   height: 100%;
@@ -1254,6 +1389,7 @@ body {
   flex-direction: column;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-7nqy-z9f .frame-14609-4QR .get-started-your-first-order-with-us-DHK {
   margin-bottom: 2.1rem;
   max-width: 50.2rem;
@@ -1264,6 +1400,7 @@ body {
   font-family: Poppins, 'Source Sans Pro';
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-7nqy-z9f .frame-14609-4QR .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-XJ1 {
   margin-bottom: 2.2rem;
   max-width: 71.5rem;
@@ -1274,6 +1411,7 @@ body {
   font-family: Poppins, 'Source Sans Pro';
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-7nqy-z9f .frame-14609-4QR .frame-14608-xeD {
   width: 16.3rem;
   height: 5rem;
@@ -1290,6 +1428,7 @@ body {
   border-radius: 4rem;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .auto-group-7nqy-z9f .image-5-sFP {
   margin-top: 0.1rem;
   width: 28.8rem;
@@ -1298,6 +1437,7 @@ body {
   vertical-align: top;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .frame-14596-z57 {
   box-sizing: border-box;
   padding: 7.679rem 53.5rem 7.734rem 53.5rem;
@@ -1308,18 +1448,21 @@ body {
   top: 466.5rem;
   background-color: #202020;
 }
+
 .landing-page-kcR .frame-14596-z57 .frame-14596-seh {
   width: 100%;
   height: 100%;
   display: flex;
   align-items: flex-start;
 }
+
 .landing-page-kcR .frame-14596-z57 .frame-14596-seh .frame-14588-SSu {
   margin-right: 15.7rem;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .frame-14596-z57 .frame-14596-seh .frame-14588-SSu .general-CS5 {
   margin-bottom: 1.8468rem;
   font-size: 2.5097rem;
@@ -1331,6 +1474,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .frame-14596-z57 .frame-14596-seh .frame-14588-SSu .about-us-84q {
   margin-bottom: 1.1rem;
   font-size: 1.8822rem;
@@ -1341,6 +1485,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .frame-14596-z57 .frame-14596-seh .frame-14588-SSu .services-4jB {
   font-size: 1.8822rem;
   font-weight: 400;
@@ -1350,12 +1495,14 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .frame-14596-z57 .frame-14596-seh .frame-14589-PmT {
   height: 100%;
   display: flex;
   flex-direction: column;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .frame-14596-z57 .frame-14596-seh .frame-14589-PmT .policies-kM7 {
   margin-bottom: 1.8468rem;
   font-size: 2.5097rem;
@@ -1367,6 +1514,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .frame-14596-z57 .frame-14596-seh .frame-14589-PmT .security-safeguards-4ch {
   margin-bottom: 0.6135rem;
   font-size: 1.8822rem;
@@ -1377,6 +1525,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .frame-14596-z57 .frame-14596-seh .frame-14589-PmT .terms-of-service-129 {
   margin-bottom: 0.6135rem;
   font-size: 1.8822rem;
@@ -1387,6 +1536,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .frame-14596-z57 .frame-14596-seh .frame-14589-PmT .privacy-wRb {
   margin-bottom: 0.6136rem;
   font-size: 1.8822rem;
@@ -1397,6 +1547,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .frame-14596-z57 .frame-14596-seh .frame-14589-PmT .accessibility-Teq {
   font-size: 1.8822rem;
   font-weight: 400;
@@ -1406,6 +1557,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .frame-15437-mvR {
   width: 91.2rem;
   height: 34.4rem;
@@ -1415,11 +1567,13 @@ body {
   display: flex;
   align-items: flex-start;
 }
+
 .landing-page-kcR .frame-15437-mvR .auto-group-osqu-umj {
   margin: 0.9rem 13.8rem 0rem 0rem;
   width: 43rem;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .frame-15437-mvR .auto-group-osqu-umj .coming-soon-rBB {
   margin-bottom: 1.4rem;
   font-size: 4.8rem;
@@ -1429,6 +1583,7 @@ body {
   font-family: Poppins, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .landing-page-kcR .frame-15437-mvR .auto-group-osqu-umj .android-ios-M7w {
   margin-bottom: 3.6rem;
   font-size: 6.4rem;
@@ -1438,6 +1593,7 @@ body {
   font-family: Poppins, 'Source Sans Pro';
   white-space: nowrap;
 }
+
 .landing-page-kcR .frame-15437-mvR .auto-group-osqu-umj .frame-14757-ttZ {
   margin-right: 3rem;
   width: calc(100% - 3rem);
@@ -1445,6 +1601,7 @@ body {
   display: flex;
   align-items: center;
 }
+
 .landing-page-kcR .frame-15437-mvR .auto-group-osqu-umj .frame-14757-ttZ .frame-12-ExR {
   margin-right: 3rem;
   box-sizing: border-box;
@@ -1456,6 +1613,7 @@ body {
   border-radius: 1rem;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .frame-15437-mvR .auto-group-osqu-umj .frame-14757-ttZ .frame-12-ExR .image-4-P4d {
   margin-right: 1.1rem;
   width: 2.3689rem;
@@ -1466,6 +1624,7 @@ body {
   background-image: url('../assets/image-4-RrR.png');
   flex-shrink: 0;
 }
+
 .landing-page-kcR .frame-15437-mvR .auto-group-osqu-umj .frame-14757-ttZ .frame-12-ExR .google-play-tGH {
   font-size: 2rem;
   font-weight: 600;
@@ -1475,6 +1634,7 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .frame-15437-mvR .auto-group-osqu-umj .frame-14757-ttZ .frame-11-QkR {
   box-sizing: border-box;
   padding: 1.7rem 3.57rem 1.7rem 0.9rem;
@@ -1485,6 +1645,7 @@ body {
   border-radius: 1rem;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .frame-15437-mvR .auto-group-osqu-umj .frame-14757-ttZ .frame-11-QkR .image-6-xG9 {
   margin-right: 1.2rem;
   width: 2.8301rem;
@@ -1495,6 +1656,7 @@ body {
   background-image: url('../assets/image-6-FQM.png');
   flex-shrink: 0;
 }
+
 .landing-page-kcR .frame-15437-mvR .auto-group-osqu-umj .frame-14757-ttZ .frame-11-QkR .app-store-EzM {
   font-size: 2rem;
   font-weight: 600;
@@ -1504,10 +1666,169 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
 .landing-page-kcR .frame-15437-mvR .image-13-LXb {
   width: 34.4rem;
   height: 34.4rem;
   object-fit: cover;
   vertical-align: top;
   flex-shrink: 0;
+}
+
+/* Laptops and Desktops (Medium to Large Screens) */
+
+@media screen and (min-width: 1024px) {
+  body {
+    width: 100%;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 {
+    width: 100%;
+  }
+
+  .landing-page-kcR .auto-group-wzsm-WNM {
+    width: 100%;
+  }
+
+  .landing-page-kcR .auto-group-7nqy-z9f {
+    width: 100%;
+  }
+
+  .landing-page-kcR .frame-14596-z57 {
+    width: 100%;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw {
+    left: 21rem;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .ellipse-3-E6u {
+    left: 21rem;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-5bP {
+
+    left: 21rem;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .frame-14599-kSd {
+    left: 21rem;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .frame-18-VMb {
+    left: 21rem;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .frame-14597-XBF {
+    left: 194.8rem;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .frame-14600-XqT {
+    left: 70.8rem;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .line-9-Pub {
+    width: 208.2rem;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .group-1-HL5 {
+    left: 151.7rem;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .line-10-rR7 {
+    left: 78rem;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .line-11-BiH {
+    left: 90.4rem;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .line-12-iTK {
+    left: 104rem;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .line-13-sb7 {
+    left: 120rem;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .line-16-DQ5 {
+    left: 135rem;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .frame-14597-8L1 {
+    left: 116.4rem;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .group-19-wso {
+    left: 126.4rem;
+  }
+
+  /* next part */
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ .group-20-jFF {
+    left: 21rem;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-25-CEd .frame-14603-LLq {
+    margin-left: 15rem;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-27-o3P .group-22-LZ7 {
+    margin-left: 21rem;
+    /* margin-right: 0px; */
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-26-Fjw .frame-14605-B7o {
+    margin-left: 15rem;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ .frame-14602-Rxd {
+    margin: 3.9rem 0rem 5.7rem 75rem;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-25-CEd .group-21-ugm {
+    margin-left: 35%;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-27-o3P .frame-14604-6aD {
+    margin: 3.9rem 0rem 5.7rem 55rem;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-26-Fjw .group-23-b53 {
+    margin-left: 35%;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .line-14-MM3 {
+    margin-left: 35%;
+  }
+
+  /* next part */
+  .landing-page-kcR .our-products-KZK {
+    left: 43%;
+  }
+
+  .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD {
+    margin-right: 53.9rem;
+  }
+
+  .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 {
+    margin-left: 30rem;
+  }
+
+  .landing-page-kcR .auto-group-wzsm-WNM .line-15-1K7 {
+    width: 182.2rem;
+  }
+
+  /* next part */
+  .landing-page-kcR .auto-group-7nqy-z9f .frame-14609-4QR {
+    margin-left: 20%;
+  }
+
+  .landing-page-kcR .frame-15437-mvR {
+    left: 71rem;
+  }
+
+  /* next part */
+  .landing-page-kcR .frame-14596-z57 .frame-14596-seh {
+    margin-left: 35%;
+  }
 }

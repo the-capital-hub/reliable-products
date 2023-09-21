@@ -644,3 +644,60 @@ body {
   white-space: nowrap;
   flex-shrink: 0;
 }
+
+@media screen and (min-width: 1024px) {
+  body {
+    width: 100%;
+}
+/* contact */
+.contact-us-cFj .auto-group-vphk-Zgm .auto-group-rdrz-w8u{
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  left: 0;
+
+}
+.contact-us-cFj .auto-group-vphk-Zgm .auto-group-rdrz-w8u .auto-group-4zgm-hBF {
+margin-left: 2rem;
+}
+.contact-us-cFj .group-14602-3TP .frame-14596-aiD {
+display: flex;
+justify-content: center;
+}
+.contact-us-cFj .auto-group-vphk-Zgm .line-20-jhb {
+width: 188.2rem;
+left: 10rem;
+}
+/* navbar */
+.contact-us-cFj .auto-group-vphk-Zgm .auto-group-w4mx-Wru{
+  width: 100%;
+}
+.contact-us-cFj .auto-group-vphk-Zgm .auto-group-w4mx-Wru .auto-group-fjsf-99B {
+width: 152.5rem;
+}
+.contact-us-cFj .auto-group-vphk-Zgm .auto-group-w4mx-Wru .auto-group-fjsf-99B .frame-14600-VD3 {
+
+left: 29%;}
+.contact-us-cFj .auto-group-vphk-Zgm .line-9-Pt5 {
+width: 211.2rem;
+}
+.contact-us-cFj .auto-group-vphk-Zgm .auto-group-w4mx-Wru .auto-group-fjsf-99B .line-21-o9B{
+  left: 109rem;
+}
+.contact-us-cFj .auto-group-vphk-Zgm .auto-group-w4mx-Wru .auto-group-fjsf-99B .line-13-VPP {
+left: 93rem;
+}
+.contact-us-cFj .auto-group-vphk-Zgm .auto-group-w4mx-Wru .auto-group-fjsf-99B .line-12-XxM {
+left: 78rem;
+}
+.contact-us-cFj .auto-group-vphk-Zgm .auto-group-w4mx-Wru .auto-group-fjsf-99B .line-10-3XP {
+
+left: 64rem;
+}
+/* .contact-us-cFj .auto-group-vphk-Zgm .auto-group-w4mx-Wru .auto-group-fjsf-99B .line-11-anD {
+
+} */
+.contact-us-cFj .auto-group-vphk-Zgm .auto-group-w4mx-Wru .auto-group-fjsf-99B .line-11-anD {
+left: 52rem;
+}
+}
