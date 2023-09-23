@@ -515,3 +515,72 @@ margin-left: 35rem;
   justify-content: center;
 }
 }
+
+
+
+
+/* Media query for screens with a maximum width of 600px (mobile devices) */
+@media screen and (max-width: 800px) {
+  .our-partners-kcZ .auto-group-eefj-UHf .auto-group-8ech-AQh .auto-group-c9qt-Vxm .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idsit-purus-ante-dictum-in-malesuada-idlorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-id-hJ9{
+    max-width: 100%;
+    font-size: 2.5rem;
+  }
+
+.our-partners-kcZ .auto-group-eefj-UHf .auto-group-8ech-AQh {
+flex-direction: column;
+width: 90%;
+left: 0;
+padding-left: 50px;
+}
+.our-partners-kcZ .auto-group-eefj-UHf .auto-group-8ech-AQh .auto-group-c9qt-Vxm .line-20-MVB {
+
+  width: 132rem;}
+.our-partners-kcZ .auto-group-eefj-UHf .auto-group-8ech-AQh .image-6-SQ9 {
+
+left: -39%;
+}
+
+.our-partners-kcZ .auto-group-eefj-UHf .auto-group-uec1-YTB{
+  /* display: none; */
+  margin-top: 467px;
+  display: flex;
+  flex-direction: column-reverse;
+  width: 100%;
+}
+
+.our-partners-kcZ .auto-group-eefj-UHf .auto-group-uec1-YTB .image-7-rim {
+  width: 39.8rem;
+  height: 42.6rem;
+  margin-left: 43rem;
+}
+
+.our-partners-kcZ .auto-group-eefj-UHf .auto-group-uec1-YTB .auto-group-gntk-YrV{
+  width: 100%;
+}
+.our-partners-kcZ .auto-group-eefj-UHf .auto-group-uec1-YTB .auto-group-gntk-YrV .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idsit-purus-ante-dictum-in-malesuada-idlorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-id-bpm{
+  max-width: 88%;
+  font-size: 2.5rem;
+}
+.our-partners-kcZ .auto-group-eefj-UHf .auto-group-uec1-YTB .auto-group-gntk-YrV .line-21-rcH {
+
+width: 133rem;}
+
+
+
+.our-partners-kcZ .auto-group-eefj-UHf .frame-14602-nQ9{
+  display: none;
+}
+
+.our-partners-kcZ .group-14603-3Cu{
+  margin-top: 10%;
+}
+.our-partners-kcZ .group-14603-3Cu .frame-14596-AoK{
+  flex-direction: column;
+}
+.our-partners-kcZ .group-14603-3Cu {
+
+padding-top:2.6rem ;
+padding-left: 67.5rem;}
+
+
+}

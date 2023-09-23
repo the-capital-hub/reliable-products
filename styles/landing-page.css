@@ -1675,13 +1675,27 @@ body {
   flex-shrink: 0;
 }
 
+
+
+
+
+
+
+
+.mobileNavebar {
+  display: none;
+}
+
+
 /* Laptops and Desktops (Medium to Large Screens) */
 
 @media screen and (min-width: 1024px) {
   body {
     width: 100%;
   }
-
+  .landing-page-kcR .auto-group-7nqy-z9f .image {
+    display: none;
+    }
   .landing-page-kcR .auto-group-om93-gF3 {
     width: 100%;
   }
@@ -1831,4 +1845,584 @@ body {
   .landing-page-kcR .frame-14596-z57 .frame-14596-seh {
     margin-left: 35%;
   }
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #ffffff;
+  display: block;
+  transition: 0.3s;
+  font-family: Poppins;
+}
+
+.sidenav a:hover {
+  color: #FD5901;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+/* Media query for screens with a maximum width of 600px (mobile devices) */
+@media screen and (max-width: 800px) {
+
+  body,
+  .landing-page-kcR {
+    min-height: 1014vh;
+
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .frame-14600-XqT,
+  .landing-page-kcR .auto-group-ilxb-a5f .line-10-rR7,
+  .landing-page-kcR .auto-group-ilxb-a5f .line-11-BiH,
+  .landing-page-kcR .auto-group-ilxb-a5f .line-12-iTK,
+  .landing-page-kcR .auto-group-ilxb-a5f .line-13-sb7,
+  .landing-page-kcR .auto-group-ilxb-a5f .line-16-DQ5,
+  .landing-page-kcR .auto-group-ilxb-a5f .line-9-Pub {
+    display: none;
+  }
+
+  .mobileNavebar {
+    display: flex;
+  }
+
+  .sidenav {
+    padding-top: 40px;
+  }
+
+  .sidenav a {
+    padding: 10px 8px 8px 63px;
+
+    font-size: 20px;
+  }
+
+  .sidenav .closebtn {
+    font-size: 30px;
+    margin-left: 10px;
+    padding-right: 1px;
+  }
+
+  .navebaricon {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    padding: 20px 0;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .whatsappimage2023-09-05at1214-1-mRb {
+    height: 36px;
+    object-fit: contain;
+    padding-left: 20px;
+    padding-top: 5px;
+  }
+
+
+
+
+
+
+
+
+  .landing-page-kcR .auto-group-ilxb-a5f .ellipse-3-E6u {
+    display: none;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw {
+    width: 62%;
+    text-align: center;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-5bP {
+    width: 58%;
+    top: 37.8rem;
+    font-size: 2.5rem;
+    left: 6rem;
+    text-align: center;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .group-1-HL5 {
+    left: 60.7rem;
+    top: 51.5rem;
+    width: 100%;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .frame-14597-8L1 {
+    left: 34.4rem;
+    top: 118.5rem;
+    width: 34.9rem;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .frame-14599-kSd {
+    width: 69.3rem;
+    height: 9rem;
+    left: 33rem;
+    top: 145.4rem;
+    font-size: 3.8rem;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .frame-18-VMb {
+    width: 63%;
+    top: 160.8rem;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-evenly; */
+    align-items: center;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .frame-18-VMb .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-KLd {
+    font-size: 2.5rem;
+    max-width: 121.1rem;
+    text-align: center;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .group-19-wso {
+    left: 42.4rem;
+    top: 149.1rem;
+    width: 100%;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .group-19-wso .rectangle-3-5z1 {
+    width: 130rem;
+    height: 46rem;
+    left: -40.7rem;
+    border-radius: 38rem;
+    top: 40.5rem;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .group-19-wso .group-17-Qeu {
+    width: 58.1rem;
+    height: 20.1rem;
+    left: -505px;
+    top: 310px;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .group-19-wso .ellipse-3-hkV {
+    width: 31.4rem;
+    height: 20.4rem;
+    left: -47.7rem;
+    top: 60.1rem;
+    filter: blur(17.5rem);
+    border-radius: 7.7rem;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .group-1-HL5 .rectangle-1-Ws3 {
+    width: 60.1rem;
+    height: 91.4rem;
+    left: -129px;
+    top: -21px;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .group-1-HL5 .rectangle-2-fbX {
+    width: 42.6rem;
+    height: 69.4rem;
+    left: 4.8rem;
+    top: 12.2rem;
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .group-1-HL5 .ellipse-1-pau {
+    width: 34.4rem;
+    height: 23.4rem;
+    left: 13.7rem;
+    top: 6.2rem;
+    filter: blur(18.2rem);
+  }
+
+  .landing-page-kcR .auto-group-ilxb-a5f .group-1-HL5 .ellipse-2-w9j {
+    width: 22.4rem;
+    height: 20.4rem;
+    left: -15.7rem;
+    top: 51.1rem;
+    filter: blur(13.2rem);
+  }
+
+
+
+  .landing-page-kcR .auto-group-om93-gF3 {
+    top: 247.4rem;
+    /* display: none; */
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 {
+    grid-auto-rows: 0;
+    display: block;
+    width: 100%;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .why-you-choose-us-Liu {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-Uwb {
+    font-size: 3.5rem;
+    text-align: center;
+    max-width: 100%;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .line-14-MM3 {
+    width: 133.2rem;
+    height: 0.1rem;
+    background-color: rgba(255, 255, 255, 0.6499999762);
+    display: none;
+  }
+
+  .line-14-MM3 {
+    width: 133.2rem;
+    height: 0.1rem;
+    background-color: rgba(255, 255, 255, 0.6499999762);
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ {
+    /* display: none; */
+    width: 100%;
+    display: flex;
+    flex-direction: column-reverse;
+    margin: 227px 0px 0px 0px;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ .group-20-jFF .ellipse-63-eoT {
+    width: 9.6rem;
+    height: 9.6rem;
+    border-radius: 12.8rem;
+    left: 31.8rem;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ .group-20-jFF .ellipse-62-3Wq {
+
+    width: 32.6rem;
+    height: 32.6rem;
+    border-radius: 17.3rem;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ .group-20-jFF .ellipse-65-Bey {
+    width: 32.6rem;
+    height: 32.6rem;
+    border-radius: 17.3rem;
+    left: 3.8rem;
+    top: 2.9rem;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ .group-20-jFF .image-2-htD {
+
+    height: 30.2rem;
+    left: 7.7rem;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ .group-20-jFF .ellipse-64-iYR {
+    width: 9.6rem;
+    height: 9.6rem;
+    border-radius: 12.8rem;
+    left: -26px;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ .frame-14602-Rxd {
+    width: 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ .frame-14602-Rxd .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-TuK {
+    max-width: 100%;
+    font-size: 2.5rem;
+    text-align: left;
+    margin-bottom: -91px;
+
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ .frame-14602-Rxd .services-ZJ9 {
+    text-align: left;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-24-zYZ .frame-14602-Rxd .frame-14601-6SV {
+    display: none;
+  }
+
+
+
+
+
+
+
+
+
+
+  .landing-page-kcR .auto-group-om93-gF3 {
+    height: 355rem;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-25-CEd {
+    /* display: none; */
+    margin-top: 186px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-25-CEd .frame-14603-LLq {
+    width: 100%;
+    text-align: left;
+    margin: 0;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-25-CEd .frame-14603-LLq .order-tracking-2UZ {
+    text-align: left;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-25-CEd .frame-14603-LLq .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-9p5 {
+    max-width: 100%;
+    font-size: 2.5rem;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-25-CEd .group-21-ugm {
+    width: 84.4rem;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-25-CEd .frame-14603-LLq .frame-14601-CnM {
+    display: none;
+
+  }
+
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-27-o3P {
+    /* display: none; */
+    margin-top: 600px;
+    display: flex;
+    flex-direction: column-reverse;
+    width: 100%;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-27-o3P .group-22-LZ7 {
+    margin-right: -3.2rem;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-27-o3P .frame-14604-6aD {
+    width: 100%;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-27-o3P .frame-14604-6aD .safe-secure-D93 {
+    text-align: left;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-27-o3P .frame-14604-6aD .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-LjT {
+    max-width: 100%;
+    font-size: 2.5rem;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-27-o3P .frame-14604-6aD .frame-14601-m45 {
+    display: none;
+  }
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-26-Fjw {
+    /* display: none; */
+    margin-top: 186px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-26-Fjw .frame-14605-B7o {
+    width: 100%;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-26-Fjw .frame-14605-B7o .fast-delivery-6Vf {
+    text-align: left;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-26-Fjw .frame-14605-B7o .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-S3j {
+    font-size: 2.5rem;
+    max-width: 100%;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-26-Fjw .frame-14605-B7o .frame-14601-sPw {
+    display: none;
+  }
+
+  .landing-page-kcR .auto-group-om93-gF3 .frame-14606-5wP .frame-26-Fjw .group-23-b53 {
+    width: 82rem;
+  }
+
+
+
+  .landing-page-kcR .auto-group-wzsm-WNM,
+  .landing-page-kcR .our-products-KZK {
+    /* display: none; */
+    margin-top: 211%;
+    width: 100%;
+  }
+  .landing-page-kcR .auto-group-wzsm-WNM .line-15-1K7{
+    display: none;
+  }
+  .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9{
+    display: flex;
+    flex-direction: column-reverse;
+    width: 100%;
+align-items: center; 
+ }
+ .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .frame-28-XCD {
+width: 155.5rem; 
+height: 72.777rem;
+}
+
+.landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .frame-28-XCD .image-4-17P {
+    width: 45.1569rem;
+    height: 33.5669rem;
+  }
+  .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .frame-28-XCD .coconuts-jJH {
+    margin: 2rem 0rem 2.971rem 0.574rem;
+    font-size: 4rem;
+  }
+  .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .frame-28-XCD .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-bE1{
+
+    max-width: 100%;
+    font-size: 2.5rem;
+  }
+  .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .frame-28-XCD .frame-14607-4tH{
+    width: calc(100% - 65.0052rem);
+font-size: 2.5rem;
+  }
+  .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .frame-28-XCD {
+margin-bottom: 8rem;
+  }
+  .landing-page-kcR .auto-group-wzsm-WNM {
+padding-top: 0rem;
+  }
+  .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD{
+    width: 100%;
+    margin: 0;
+    align-items:0;
+  }
+  .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-yi1f-CPb .coconuts-jPX {
+    justify-content: space-between;
+    display: flex;
+margin: 0;
+padding-right: 78%;
+  }
+  .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-kqv5-JzM{
+    justify-content: space-between;
+    display: flex;
+    width: 95%;
+margin: 0;
+padding-bottom: 5rem;
+
+  }
+  .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-2w9k-2hP{
+    justify-content: space-between;
+    display: flex;
+    width: 95%;
+margin: 0;
+padding-bottom: 5rem;
+  }
+  .landing-page-kcR .auto-group-wzsm-WNM .auto-group-w5ay-7N9 .auto-group-jfny-scD .auto-group-is65-YSm{
+    justify-content: space-between;
+    display: flex;
+    width: 95%;
+margin: 0;
+  }
+
+
+  .landing-page-kcR .auto-group-7nqy-z9f {
+    /* display: none; */
+    margin-top: 258%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    height: 100.7rem;
+  }
+  .landing-page-kcR .auto-group-7nqy-z9f .frame-14609-4QR .get-started-your-first-order-with-us-DHK{
+    max-width: 100%;
+    text-align: center;
+  }
+  .landing-page-kcR .auto-group-7nqy-z9f .frame-14609-4QR{
+    align-items: center;
+margin: 0;  
+}
+.landing-page-kcR .auto-group-7nqy-z9f .frame-14609-4QR .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-XJ1{
+  font-size: 2.5rem;
+  text-align: center;
+}
+.landing-page-kcR .auto-group-7nqy-z9f .image-5-sFP {
+  display: none;
+}
+.landing-page-kcR .auto-group-7nqy-z9f .image {
+  width: 46.8rem;
+  height: 49.8rem;
+  margin-bottom: 5px;
+}
+.landing-page-kcR .auto-group-7nqy-z9f .frame-14609-4QR .frame-14608-xeD {
+  
+  display: none;
+}
+
+
+
+  .landing-page-kcR .frame-15437-mvR {
+    /* display: none; */
+    margin-top: 295%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    /* height: 100.7rem; */
+  }
+  .landing-page-kcR .frame-15437-mvR{
+    left: 57rem;
+  }
+  .landing-page-kcR .frame-15437-mvR .image-13-LXb{
+    display: none;
+  }
+  .landing-page-kcR .frame-15437-mvR .auto-group-osqu-umj .frame-14757-ttZ {
+  
+  flex-direction: column;
+}
+.landing-page-kcR .frame-15437-mvR .auto-group-osqu-umj .frame-14757-ttZ .frame-12-ExR {
+
+margin-right: 25.9rem;
+}
+.landing-page-kcR .frame-15437-mvR .auto-group-osqu-umj .frame-14757-ttZ .frame-11-QkR {
+margin-left: 12.9rem;
+margin-top: -54px;
+}
+.landing-page-kcR .frame-15437-mvR .auto-group-osqu-umj .android-ios-M7w {
+margin-left: -48px;
+}
+  .landing-page-kcR .frame-14596-z57 {
+    /* display: none; */
+    margin-top: 330%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-left: 70.5rem;
+  }
+  .landing-page-kcR .frame-14596-z57 {
+height: 87.5rem;
+  }
+  .landing-page-kcR .frame-14596-z57 .frame-14596-seh{
+    flex-direction: column;
+  }
+  .landing-page-kcR .frame-14596-z57 .frame-14596-seh .frame-14588-SSu{
+    margin-bottom: 20px;
+  }
+
 }
