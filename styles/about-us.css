@@ -436,6 +436,10 @@ body {
 /* Laptops and Desktops (Medium to Large Screens) */
 
 @media screen and (min-width: 1024px) {
+  .mobile_icon{
+    display: none;
+    
+  }
   body {
     width: 100%;
 }
@@ -478,84 +482,38 @@ margin-right: 2%;
   display: none;
 }
 
-.mobileNavebar{
+/* .mobileNavebar{
   display: none;
-  }
-.sidenav {
-  height: 100%;
-  width: 0;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: #111;
-  overflow-x: hidden;
-  transition: 0.5s;
-  padding-top: 60px;
-}
+  } */
 
-.sidenav a {
-  padding: 8px 8px 8px 32px;
-  text-decoration: none;
-  font-size: 25px;
-  color: #ffffff;
-  display: block;
-  transition: 0.3s;
-  font-family: Poppins;
-}
-
-.sidenav a:hover {
-  color:#FD5901;
-}
-
-.sidenav .closebtn {
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  font-size: 36px;
-  margin-left: 50px;
-}
 
 /* Media query for screens with a maximum width of 600px (mobile devices) */
 @media screen and (max-width: 800px) {
- 
-  /* .landing-page-kcR .auto-group-ilxb-a5f .frame-14600-XqT,  .landing-page-kcR .auto-group-ilxb-a5f .line-10-rR7, .landing-page-kcR .auto-group-ilxb-a5f .line-11-BiH , .landing-page-kcR .auto-group-ilxb-a5f .line-12-iTK , .landing-page-kcR .auto-group-ilxb-a5f .line-13-sb7 , .landing-page-kcR .auto-group-ilxb-a5f .line-16-DQ5 , .landing-page-kcR .auto-group-ilxb-a5f .line-9-Pub{
+  .mobile_icon{
+    display: block;
+    margin-right: 98%;
+    margin-top: 28px;
+  }
+  .about-us-Cc9 .auto-group-motd-jry .auto-group-baok-eyw .frame-z2D .whatsappimage2023-09-05at1214-1-iU1 {
+  
+  margin-left: 26px;}
+  
+   .about-us-Cc9 .auto-group-motd-jry .auto-group-baok-eyw .frame-hWH .line-9-H77{
     display: none;
-  } */
+   }
+ 
   .about-us-Cc9 .auto-group-motd-jry .auto-group-baok-eyw .frame-hWH .auto-group-rqr5-DUd , .about-us-Cc9 .auto-group-motd-jry .auto-group-baok-eyw .frame-z2D .auto-group-th2z-EBT .frame-14600-Aqo 
     {
     display: none;
   }
-  .about-us-Cc9 .auto-group-motd-jry .auto-group-baok-eyw .frame-z2D .whatsappimage2023-09-05at1214-1-iU1{
+  /* .about-us-Cc9 .auto-group-motd-jry .auto-group-baok-eyw .frame-z2D .whatsappimage2023-09-05at1214-1-iU1{
     display: none;
-  }
+  } */
   .about-us-Cc9 .auto-group-motd-jry .auto-group-baok-eyw .frame-z2D .auto-group-th2z-EBT{
     width: 100%;
     padding-left: 111.992rem;
   }
-  .mobileNavebar{
-    display: flex;
-    }
-  .sidenav {
-    padding-top: 40px;
-  }
-  .sidenav a {
-    padding: 10px 8px 8px 63px;
-    
-    font-size: 20px;
-  }
-  .sidenav .closebtn {
-    font-size: 30px;
-    margin-left: 10px;
-    padding-right: 1px;
-  }
-  .navebaricon{
-display: flex;
-flex-direction: row;
-align-items: center;
-gap: 10px;
-padding: 20px 0;
-  }
+
    .whatsappimage2023-09-05at1214-1-mRb {
     height: 36px;
     object-fit: contain;
@@ -602,7 +560,9 @@ padding: 20px 0;
   .about-us-Cc9 .frame-14601-o4m .frame-14596-K37 .frame-14588-sqK{
     margin-bottom: 20px;
   }
-
+  .about-us-Cc9 .auto-group-motd-jry .auto-group-baok-eyw .frame-z2D .auto-group-th2z-EBT .frame-14597-1NZ {
+  margin-left: -16%;
+  }
 
 
 }

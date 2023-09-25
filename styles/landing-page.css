@@ -1,4 +1,5 @@
 html {
+  
   font-size: 52.4%;
 }
 
@@ -1685,13 +1686,20 @@ body {
 .mobileNavebar {
   display: none;
 }
-
-
+.hand_imgs{
+  display: none;
+}
+.test{
+  display: flex;
+}
 /* Laptops and Desktops (Medium to Large Screens) */
 
 @media screen and (min-width: 1024px) {
+  .test{
+    display: none;
+  }
   body {
-    width: 100%;
+    /* width: 100%; */
   }
   .landing-page-kcR .auto-group-7nqy-z9f .image {
     display: none;
@@ -1845,49 +1853,23 @@ body {
   .landing-page-kcR .frame-14596-z57 .frame-14596-seh {
     margin-left: 35%;
   }
+  .landing-page-kcR .auto-group-om93-gF3 .lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-Uwb{
+    display: none;
+  }
+  .landing-page-kcR .auto-group-om93-gF3 .why-you-choose-us-Liu{display: none;}
 }
 
-.sidenav {
-  height: 100%;
-  width: 0;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: #111;
-  overflow-x: hidden;
-  transition: 0.5s;
-  padding-top: 60px;
-}
 
-.sidenav a {
-  padding: 8px 8px 8px 32px;
-  text-decoration: none;
-  font-size: 25px;
-  color: #ffffff;
-  display: block;
-  transition: 0.3s;
-  font-family: Poppins;
-}
 
-.sidenav a:hover {
-  color: #FD5901;
-}
-
-.sidenav .closebtn {
-  position: absolute;
-  top: 10px;
-  left: 10px;
-  font-size: 36px;
-  margin-left: 50px;
-}
 
 /* Media query for screens with a maximum width of 600px (mobile devices) */
 @media screen and (max-width: 800px) {
-
+  .hand_imgs{
+    display: block;
+  }
   body,
   .landing-page-kcR {
-    min-height: 1014vh;
+    min-height: 1280vh;
 
   }
 
@@ -1905,21 +1887,6 @@ body {
     display: flex;
   }
 
-  .sidenav {
-    padding-top: 40px;
-  }
-
-  .sidenav a {
-    padding: 10px 8px 8px 63px;
-
-    font-size: 20px;
-  }
-
-  .sidenav .closebtn {
-    font-size: 30px;
-    margin-left: 10px;
-    padding-right: 1px;
-  }
 
   .navebaricon {
     display: flex;
@@ -1927,6 +1894,10 @@ body {
     align-items: center;
     gap: 10px;
     padding: 20px 0;
+  }
+  .mobile_icon{
+    /* padding-top: 30px; */
+
   }
 
   .landing-page-kcR .auto-group-ilxb-a5f .whatsappimage2023-09-05at1214-1-mRb {

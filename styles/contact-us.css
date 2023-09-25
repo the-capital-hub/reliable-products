@@ -646,6 +646,9 @@ body {
 }
 
 @media screen and (min-width: 1024px) {
+  .mobile_icon{
+    display: none;
+  }
   body {
     width: 100%;
 }
@@ -706,6 +709,9 @@ left: 52rem;
 
 /* Media query for screens with a maximum width of 600px (mobile devices) */
 @media screen and (max-width: 800px) {
+  .mobile_icon{
+    display: block;
+  }
   .contact-us-cFj .auto-group-vphk-Zgm .auto-group-rdrz-w8u{
     flex-direction: column;
     align-items: start;
@@ -819,6 +825,12 @@ padding-top: 3.97rem;
 }
 .contact-us-cFj .group-14602-3TP{
   height: 45.5rem;
+}
+.contact-us-cFj .auto-group-vphk-Zgm .auto-group-w4mx-Wru .auto-group-fjsf-99B{
+  display: none;
+}
+.contact-us-cFj .auto-group-vphk-Zgm .auto-group-w4mx-Wru .frame-14597-uxu{
+  margin-left: 89rem;
 }
 
 }

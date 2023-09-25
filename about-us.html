@@ -10,42 +10,79 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C500%2C600"/>
   <link rel="stylesheet" href="./styles/about-us.css"/>
 </head>
-<body>
-<div class="about-us-Cc9">
-  <div class="auto-group-motd-jry">
-    <div class="auto-group-baok-eyw">
-      <div class="navebaricon">
-        <span class="mobileNavebar" style="font-size:30px;cursor:pointer ;color: #ffffff;" onclick="openNav()">&#9776; </span>
-        <img class="whatsappimage2023-09-05at1214-1-mRb " src="./assets/whatsappimage2023-09-05at1214-1-su3.png"/>
+<style>
   
-      </div>
-      <div class="frame-z2D">
-        
-        <img class="whatsappimage2023-09-05at1214-1-iU1" src="./assets/whatsappimage2023-09-05at1214-1-R9s.png"/>
-        <div class="auto-group-th2z-EBT">
-         
 
-          <div class="frame-14600-Aqo">
-            <p class="home-h53"><a href="index.html">Home</a></p>
-            <p class="about-us-cC1"><a href="about-us.html">About Us</a></p>
-            <p class="contact-us-qKf"><a href="contact-us.html">Contact Us</a></p>
-            <p class="our-partners-zCZ"><a href="our-partners.html">Our Partners</a></p>
-            <p class="our-products-uaR"><a href="our-products.html">Our Products</a></p>
-            <p class="services-Trq"><a href="services.html">Services</a></p>
+  .sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+    font-family: Poppins;
+
+  }
+
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+
+  
+</style>
+<body>
+  <body>
+    <div id="mySidenav" class="sidenav">
+      <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+      <a href="index.html">Home</a>
+      <a href="about-us.html">About Us</a>
+      <a href="contact-us.html">Contact Us</a>
+      <a href="our-partners.html">Our Partners</a>
+      <a href="our-products.html">Our Products</a>
+      <a href="services.html">Services</a>
+    </div>
+    <div class="about-us-Cc9">
+      <div class="auto-group-motd-jry">
+        <div class="auto-group-baok-eyw">
+          <div class="frame-z2D">
+            
+            
+            <img class="whatsappimage2023-09-05at1214-1-iU1" src="./assets/whatsappimage2023-09-05at1214-1-R9s.png"/>
+            <div class="auto-group-th2z-EBT">
+              <div class="frame-14600-Aqo">
+                <p class="home-h53"><a href="index.html">Home</a></p>
+                <p class="about-us-cC1"><a href="about-us.html">About Us</a></p>
+                <p class="contact-us-qKf"><a href="contact-us.html">Contact Us</a></p>
+                <p class="our-partners-zCZ"><a href="our-partners.html">Our Partners</a></p>
+                <p class="our-products-uaR"><a href="our-products.html">Our Products</a></p>
+                <p class="services-Trq"><a href="services.html">Services</a></p>
+              </div>
+              <div class="frame-14597-1NZ">Login</div>
+            </div>
           </div>
-          <div class="frame-14597-1NZ">Login</div>
-        </div>
-      </div>
-      <div  id="mySidenavs" class="sidenav  ">
-        <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
-        <p class="home-RR3"><a href="landing-page.html">Home</a></p>
-        <p class="about-us-jRj"><a href="about-us.html">About Us</a></p>
-        <p class="contact-us-GRf"><a href="contact-us.html">Contact Us</a></p>
-        <p class="our-partners-ogV"><a href="our-partners.html">Our Partners</a></p>
-        <p class="our-products-MCD"><a href="our-products.html">Our Products</a></p>
-        <p class="services-SjT"><a href="services.html">Services</a></p>
-      </div>
-      <div class="frame-hWH">
+          <div class="frame-hWH">
+        <span class="mobile_icon" style="font-size:30px;cursor:pointer; color:white" onclick="openNav()">&#9776;</span>
         <div class="auto-group-rqr5-DUd">
           <div class="line-11-Jky">
           </div>
@@ -97,11 +134,11 @@
 </div>
 <script>
   function openNav() {
-    document.getElementById("mySidenavs").style.width = "90%";
+    document.getElementById("mySidenav").style.width = "90%";
   }
   
   function closeNav() {
-    document.getElementById("mySidenavs").style.width = "0";
+    document.getElementById("mySidenav").style.width = "0";
   }
   </script>
 </body>

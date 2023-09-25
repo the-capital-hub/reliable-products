@@ -10,9 +10,60 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C500%2C600"/>
   <link rel="stylesheet" href="./styles/services.css"/>
 </head>
+<style>
+  
+
+  .sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+    font-family: Poppins;
+  }
+
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+
+  
+</style>
 <body>
+  <div id="mySidenav" class="sidenav">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <a href="index.html">Home</a>
+    <a href="about-us.html">About Us</a>
+    <a href="contact-us.html">Contact Us</a>
+    <a href="our-partners.html">Our Partners</a>
+    <a href="our-products.html">Our Products</a>
+    <a href="services.html">Services</a>
+  </div>
 <div class="services-iYH">
   <div class="auto-group-bcwd-TVs">
+    <span class="mobile_icon" style="font-size:30px;cursor:pointer; color:white" onclick="openNav()">&#9776;</span>
+
     <img class="whatsappimage2023-09-05at1214-1-mFf" src="./assets/whatsappimage2023-09-05at1214-1-jwF.png"/>
     <div class="auto-group-t6ro-sZb">
       <div class="frame-14600-pDw">
@@ -331,4 +382,13 @@
     </div>
   </div>
 </div>
+<script>
+  function openNav() {
+    document.getElementById("mySidenav").style.width = "90%";
+  }
+  
+  function closeNav() {
+    document.getElementById("mySidenav").style.width = "0";
+  }
+  </script>
 </body>

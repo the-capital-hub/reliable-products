@@ -10,7 +10,58 @@
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C500%2C600"/>
   <link rel="stylesheet" href="./styles/landing-page.css"/>
 </head>
+<style>
+  
+
+  .sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+
+  .sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+    font-family: Poppins;
+
+  }
+
+  .sidenav a:hover {
+    color: #f1f1f1;
+  }
+
+  .sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+
+  
+</style>
+
 <body >
+  <div id="mySidenav" class="sidenav">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <a href="index.html">Home</a>
+    <a href="about-us.html">About Us</a>
+    <a href="contact-us.html">Contact Us</a>
+    <a href="our-partners.html">Our Partners</a>
+    <a href="our-products.html">Our Products</a>
+    <a href="services.html">Services</a>
+  </div>
 <div class="landing-page-kcR  ">
   <div class="auto-group-ilxb-a5f">
     <img class="ellipse-60-hCD" src="./assets/ellipse-60.png"/>
@@ -25,7 +76,7 @@
       <p class="our-products-MCD"><a href="our-products.html">Our Products</a></p>
       <p class="services-SjT"><a href="services.html">Services</a></p>
     </div>
-    <div  id="mySidenav" class="sidenav  ">
+    <!-- <div  id="mySidenav" class="sidenav  ">
       <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
       <p class="home-RR3"><a href="landing-page.html">Home</a></p>
       <p class="about-us-jRj"><a href="about-us.html">About Us</a></p>
@@ -33,7 +84,7 @@
       <p class="our-partners-ogV"><a href="our-partners.html">Our Partners</a></p>
       <p class="our-products-MCD"><a href="our-products.html">Our Products</a></p>
       <p class="services-SjT"><a href="services.html">Services</a></p>
-    </div>
+    </div> -->
     <div class="line-9-Pub">
     </div>
     <p class="join-hands-with-reliable-products-for-the-best-quality-and-best-pricing-of-your-items-Mjw">
@@ -67,8 +118,8 @@
     <div class="line-16-DQ5">
     </div>
     <div class="navebaricon">
-      <span class="mobileNavebar" style="font-size:30px;cursor:pointer ;color: #ffffff;" onclick="openNav()">&#9776; </span>
-      <img class="whatsappimage2023-09-05at1214-1-mRb " src="./assets/whatsappimage2023-09-05at1214-1-su3.png"/>
+      <span class="mobile_icon" style="font-size:30px;cursor:pointer; color:white" onclick="openNav()">&#9776;</span>
+            <img class="whatsappimage2023-09-05at1214-1-mRb " src="./assets/whatsappimage2023-09-05at1214-1-su3.png"/>
 
     </div>
     <!-- <img class="whatsappimage2023-09-05at1214-1-mRb" src="./assets/whatsappimage2023-09-05at1214-1-su3.png"/> -->
@@ -111,7 +162,7 @@
           </div>
           <div class="ellipse-64-iYR">
           </div>
-          <div style="    
+          <div class="test" style="    
             width: 31.3rem;
     height: 9rem;
     font-size: 3.8rem;
@@ -120,7 +171,7 @@
     color: #ffffff;
     font-family: Poppins, 'Source Sans Pro';
     white-space: nowrap;
-    display: flex;
+    
     align-items: center;
     justify-content: center;
     background-color: #ff6b2c;
@@ -153,7 +204,7 @@
           </div>
           <div class="ellipse-64-5NH">
           </div>
-          <div style=" width: 31.3rem;
+          <div class="test" style=" width: 31.3rem;
           height: 9rem;
           font-size: 3.8rem;
           font-weight: 500;
@@ -161,7 +212,6 @@
           color: #ffffff;
           font-family: Poppins, 'Source Sans Pro';
           white-space: nowrap;
-          display: flex;
           align-items: center;
           justify-content: center;
           background-color: #ff6b2c;
@@ -183,7 +233,7 @@
           </div>
           <div class="ellipse-64-NeD">
           </div>
-          <div style=" width: 31.3rem;
+          <div class="test" style=" width: 31.3rem;
           height: 9rem;
           font-size: 3.8rem;
           font-weight: 500;
@@ -191,7 +241,6 @@
           color: #ffffff;
           font-family: Poppins, 'Source Sans Pro';
           white-space: nowrap;
-          display: flex;
           align-items: center;
           justify-content: center;
           background-color: #ff6b2c;
@@ -222,7 +271,7 @@
           </div>
           <div class="ellipse-64-dfw">
           </div>
-          <div style=" width: 31.3rem;
+          <div class="test" style=" width: 31.3rem;
           height: 9rem;
           font-size: 3.8rem;
           font-weight: 500;
@@ -230,7 +279,6 @@
           color: #ffffff;
           font-family: Poppins, 'Source Sans Pro';
           white-space: nowrap;
-          display: flex;
           align-items: center;
           justify-content: center;
           background-color: #ff6b2c;
@@ -308,7 +356,7 @@
       <p class="lorem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-orem-ipsum-dolor-sit-amet-consectetur-at-consequat-purus-hendrerit-proin-risus-sit-purus-ante-dictum-in-malesuada-idlorem-XJ1">Lorem ipsum dolor sit amet consectetur. At consequat purus hendrerit proin risus Sit purus ante dictum in malesuada id.Lorem  .orem ipsum dolor sit amet consectetur. At consequat purus hendrerit proin risus Sit purus ante dictum in malesuada id.Lorem</p>
       <div class="frame-14608-xeD">Order now</div>
       <img class="image" src="./assets/image-5.png"/>
-      <div style=" width: 25.3rem;
+      <div class="test" style=" width: 25.3rem;
       height: 7rem;
       font-size: 2.5rem;
       font-weight: 500;
@@ -316,7 +364,6 @@
       color: #ffffff;
       font-family: Poppins, 'Source Sans Pro';
       white-space: nowrap;
-      display: flex;
       align-items: center;
       justify-content: center;
       background-color: #ff6b2c;
@@ -350,7 +397,7 @@
       <p class="android-ios-M7w">Android &amp; ios</p>
       <div class="frame-14757-ttZ">
 
-        <img class="hand_img" src="./assets/image-13.png"/>
+        <img class="hand_imgs" src="./assets/image-13.png"/>
 
 
         <div class="frame-12-ExR">
