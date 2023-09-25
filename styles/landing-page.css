@@ -1695,11 +1695,15 @@ body {
 /* Laptops and Desktops (Medium to Large Screens) */
 
 @media screen and (min-width: 1024px) {
+  .mobile_icon{
+    display: none;
+
+  }
   .test{
     display: none;
   }
   body {
-    /* width: 100%; */
+    width: 100%;
   }
   .landing-page-kcR .auto-group-7nqy-z9f .image {
     display: none;
@@ -1864,6 +1868,10 @@ body {
 
 /* Media query for screens with a maximum width of 600px (mobile devices) */
 @media screen and (max-width: 800px) {
+  .mobile_icon{
+    display: block;
+
+  }
   .hand_imgs{
     display: block;
   }
